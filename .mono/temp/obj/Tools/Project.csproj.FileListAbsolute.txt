@@ -1,0 +1,6 @@
+C:\Users\robin\Documents\codingstuff\olexa_community_project\Project\.mono\temp\bin\Tools\Project.dll
+C:\Users\robin\Documents\codingstuff\olexa_community_project\Project\.mono\temp\bin\Tools\Project.pdb
+C:\Users\robin\Documents\codingstuff\olexa_community_project\Project\.mono\temp\obj\Tools\Project.csprojAssemblyReference.cache
+C:\Users\robin\Documents\codingstuff\olexa_community_project\Project\.mono\temp\obj\Tools\Project.csproj.CoreCompileInputs.cache
+C:\Users\robin\Documents\codingstuff\olexa_community_project\Project\.mono\temp\obj\Tools\Project.dll
+C:\Users\robin\Documents\codingstuff\olexa_community_project\Project\.mono\temp\obj\Tools\Project.pdb
